@@ -1,0 +1,52 @@
+* {
+margin: 0%;  
+padding: 0%;
+box-sizing: border-box;
+background-color: #abb1b1;
+margin-top: 20px;
+
+}
+
+.login {
+width: 350px;
+height: 560px;
+margin: auto;
+box-shadow: 7px 13px 37px white;
+padding: 40px 40px;
+border: 4px solid white;
+background: white;
+}
+
+.button {
+    width: 175px;
+    height: 33px;
+    background: blue;
+    border: none;
+    color: white;
+    margin-left: 45px;
+}
+
+.avatar {
+    margin-left: 20px;
+}
+
+.controls {
+    width: 175px;
+    height: 28px;
+    margin-left: 45px;
+    border: none;
+}
+
+.button2 {
+    margin-left: 65px;
+    color: rgb(19, 17, 17);
+    background:#abb1b1 ;
+    width: 130px;
+    border: none;
+    
+}
+
+h2 {
+    text-align: center;
+    background: white;
+}
